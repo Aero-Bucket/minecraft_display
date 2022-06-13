@@ -1,2 +1,0 @@
-give @s minecraft:obsidian{CustomModelData:1,display:{Name:'[{"text":"Angel Block","italic":false,"color":"yellow"}]',Lore:['[{"text":"Throw To Place!","italic":false}]']}} 1
-clear @s minecraft:obsidian{RepairCost:0,display:{Name:'{"text":"Angel Block"}'}} 1 

@@ -1,2 +1,0 @@
-execute as @a[nbt={Inventory:[{id:"minecraft:obsidian",tag:{RepairCost:0,display:{Name:'{"text":"Angel Block"}'}}}]}] run function angel_block:replace
-execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:obsidian",Count:1b,tag:{CustomModelData:1,display:{Name:'[{"text":"Angel Block","italic":false,"color":"yellow"}]',Lore:['[{"text":"Throw To Place!","italic":false}]']}}}}] at @s run function angel_block:setblock
